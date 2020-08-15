@@ -1,0 +1,3 @@
+# CringeMod
+extension
+LMFAO
