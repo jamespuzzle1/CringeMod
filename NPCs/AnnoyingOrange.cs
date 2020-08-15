@@ -56,44 +56,44 @@ namespace CringeMod.NPCs
                 {
                     if (beeType == 0)
                     {
-                        Main.NewText("Hey, its annoying orange!");
+                        Main.NewText("Hey, its annoying orange!", 255, 170, 0);
                       
                     }
                     if (beeType == 1)
                     {
-                        Main.NewText("Have you seen Lemon? Hes such a sour puss!");
+                        Main.NewText("Have you seen Lemon? Hes such a sour puss!", 255, 170, 0);
                     }
                     if (beeType == 2)
                     {
-                        Main.NewText("I used to be a banker, but I lost interest.");
+                        Main.NewText("I used to be a banker, but I lost interest.", 255, 170, 0);
                     }
                     if (beeType == 3)
                     {
-                        Main.NewText("I relish the fact that you've mustard enough strength to ketchup to me.");
+                        Main.NewText("I relish the fact that you've mustard enough strength to ketchup to me.", 255, 170, 0);
                     }
                     if (beeType == 4)
                     {
-                        Main.NewText("hey WASSSAABIIII");
+                        Main.NewText("hey WASSSAABIIII", 255, 170, 0);
                     }
                     if (beeType == 5)
                     {
-                        Main.NewText("i am an orange");
+                        Main.NewText("i am an orange", 255, 170, 0);
                     }
                     if (beeType == 6)
                     {
-                        Main.NewText("To the guy who invented zero, thanks for nothing");
+                        Main.NewText("To the guy who invented zero, thanks for nothing", 255, 170, 0);
                     }
                     if (beeType == 7)
                     {
-                        Main.NewText("I had a crazy dream last night. I was swimming in an ocean of orange soda. Turns out it was just a Fanta sea..");
+                        Main.NewText("I had a crazy dream last night. I was swimming in an ocean of orange soda. Turns out it was just a Fanta sea..", 255, 170, 0);
                     }
                     if (beeType == 8)
                     {
-                        Main.NewText("Ladies, if he can’t appreciate your fruit jokes, you need to let that mango.");
+                        Main.NewText("Ladies, if he can’t appreciate your fruit jokes, you need to let that mango.", 255, 170, 0);
                     }
                     if (beeType == 9)
                     {
-                        Main.NewText("I would tell you an unemployment joke, but none of them work..");
+                        Main.NewText("I would tell you an unemployment joke, but none of them work..", 255, 170, 0);
                     }
 
                 }
