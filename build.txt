@@ -1,0 +1,3 @@
+displayName = super funny  high quality community made content mode +
+author = james 
+version = 0.1

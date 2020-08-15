@@ -1,0 +1,49 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jacksmevik/Library/Application Support/Terraria/ModLoader/Mod Sources/CringeMod/CringeMod.csproj": {}
+  },
+  "projects": {
+    "/Users/jacksmevik/Library/Application Support/Terraria/ModLoader/Mod Sources/CringeMod/CringeMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacksmevik/Library/Application Support/Terraria/ModLoader/Mod Sources/CringeMod/CringeMod.csproj",
+        "projectName": "CringeMod",
+        "projectPath": "/Users/jacksmevik/Library/Application Support/Terraria/ModLoader/Mod Sources/CringeMod/CringeMod.csproj",
+        "packagesPath": "/Users/jacksmevik/.nuget/packages/",
+        "outputPath": "/Users/jacksmevik/Library/Application Support/Terraria/ModLoader/Mod Sources/CringeMod/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jacksmevik/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
